@@ -30,7 +30,7 @@ A **full-stack web application** that enables **users to rate stores**, **owners
 ![Signup Page Form Validtion](client/Store-Review/public/signup-form-validation.png)
 
 ## 💾 Database Tables
-### User Table
+### Users Table
 ![User Table](client/Store-Review/public/users-table.png)
 ### Stores table
 ![Store Table](client/Store-Review/public/Store-table.png)
