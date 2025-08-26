@@ -7,6 +7,33 @@
 
 A **full-stack web application** that enables **users to rate stores**, **owners to manage their stores & ratings**, and **admins to manage the system**.  
 
+## 🖼️ Screenshots
+
+### 👤 User Dashboard
+![User Dashboard](client/Store-Review/public/user-dashboard.png)
+
+### 🏪 Store Owner Dashboard
+![Owner Dashboard](client/Store-Review/public/store-owner-dashboard.png)
+
+### 🔑 Admin Dashboard
+![Admin Dashboard 1](client/Store-Review/public/admin-dashboard-1.png)
+![Admin Dashboard 2](client/Store-Review/public/admin-dashboard-2.png)
+
+### 🔐 Landing Page
+![Landing Page](client/Store-Review/public/landing.png)
+
+### 🔐 Login Page
+![Login Page](client/Store-Review/public/login-user.png)
+
+### 📝 Signup Page
+![Signup Page](client/Store-Review/public/signup-page.png)
+![Signup Page Form Validtion](client/Store-Review/public/signup-form-validation.png)
+
+### 💾 Database Tables
+![User Table](client/Store-Review/public/user-table.png)
+![Store Table](client/Store-Review/public/Store-table.png)
+![Ratings Table](client/Store-Review/public/ratings-table.png)
+
 ---
 
 ## ✨ Features  
