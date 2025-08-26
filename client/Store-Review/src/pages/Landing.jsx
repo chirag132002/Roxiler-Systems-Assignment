@@ -14,6 +14,8 @@ export default function Landing() {
   return (
     <div className="min-h-screen bg-gray-50 flex items-center justify-center p-6">
       <div className="max-w-3xl w-full">
+        <h1 className="text-6xl font-bold text-center mb-20">
+          ROXILER SYSTEMS ASSIGNMENT   </h1>
         <h1 className="text-3xl font-bold text-center mb-8">
           Store Reviews
         </h1>

@@ -90,8 +90,8 @@ export default function AdminDashboard() {
       <h2 className="text-2xl font-bold">Admin Dashboard</h2>
 
       {/* --- Add Store Form --- */}
-      <div className="bg-white shadow p-4 rounded-lg border max-w-lg">
-        <h3 className="font-bold text-lg mb-3">Add Store + Owner</h3>
+      <div className=" bg-white shadow p-4 rounded-lg border max-w-lg">
+        <h3 className="flex justify-center font-bold text-lg mb-3">Add Store + Owner</h3>
 
         {message && (
           <div
@@ -148,7 +148,7 @@ export default function AdminDashboard() {
       {/* --- Search Stores --- */}
       <div>
         <h3 className="text-lg font-bold mb-2">Search Stores</h3>
-        <div className="flex gap-2 mb-4">
+        <div className="gap-5 mb-4">
           <input
             placeholder="Search name"
             value={search.name}
