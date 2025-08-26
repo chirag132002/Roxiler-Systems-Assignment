@@ -20,7 +20,7 @@ A **full-stack web application** that enables **users to rate stores**, **owners
 ![Admin Dashboard 2](client/Store-Review/public/admin-dashboard-2.png)
 
 ### 🔐 Landing Page
-![Landing Page](client/Store-Review/public/landing.png)
+![Landing Page](client/Store-Review/public/landing-page.png)
 
 ### 🔐 Login Page
 ![Login Page](client/Store-Review/public/login-user.png)
